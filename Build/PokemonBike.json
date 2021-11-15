@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 536870912,
+"dataUrl": "PokemonBike.data.unityweb",
+"asmCodeUrl": "PokemonBike.asm.code.unityweb",
+"asmMemoryUrl": "PokemonBike.asm.memory.unityweb",
+"asmFrameworkUrl": "PokemonBike.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
